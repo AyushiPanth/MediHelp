@@ -10,3 +10,4 @@ Upcoming Features:
 - Generate barcodes and download it for specific medicines
 - Google sign in for users
 - Maintain history and weekly view of medicine intake
+- Chatbot/Voicebot
